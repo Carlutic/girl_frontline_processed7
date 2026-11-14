@@ -1,0 +1,21 @@
+{
+  "defaultPreset": "lobby",
+  "c_PLDS_Ateraxis_slg_hair_d.png": {
+    "normal": "maps/c_PLDS_Ateraxis_slg_hair_d_n.png"
+  },
+  "c_PLDS_Ateraxis_slg_body_d.png": {
+    "normal": "maps/c_PLDS_Ateraxis_slg_body_d_n.png"
+  },
+  "body_zhijia01_da.png": {
+    "normal": "maps/body_zhijia01_da_n.png"
+  },
+  "c_PLDS_Ateraxis_slg_cloth2_uber_da.png": {
+    "normal": "maps/c_PLDS_Ateraxis_slg_cloth2_uber_da_n.png"
+  },
+  "c_PLDS_Ateraxis_slg_cloth1_uber_d.png": {
+    "normal": "maps/c_PLDS_Ateraxis_slg_cloth1_uber_d_n.png"
+  },
+  "c_PLDS_Ateraxis_slg_cloth3_uber_da.png": {
+    "normal": "maps/c_PLDS_Ateraxis_slg_cloth3_uber_da_n.png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "skin.png": {
+    "normal": "maps/skin_n.png"
+  },
+  "B_body_d.png": {
+    "normal": "maps/B_body_d_n.png"
+  },
+  "AR_Ots14_011_C_01_d.png": {
+    "normal": "maps/AR_Ots14_011_C_01_d_n.png"
+  },
+  "AR_Ots14_011_C_02_d.png": {
+    "normal": "maps/AR_Ots14_011_C_02_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "丝袜": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "defaultPreset": "lobby",
+  "c_Ullrid_face_d.png": {
+    "normal": "maps/c_Ullrid_face_d_n.png"
+  },
+  "c_Ullrid_eye_d.png": {
+    "normal": "maps/c_Ullrid_eye_d_n.png"
+  },
+  "c_Ullrid_eyeblend.png": {
+    "normal": "maps/c_Ullrid_eyeblend_n.png"
+  },
+  "c_UllridSSR01_slg_cloth1_da.png": {
+    "normal": "maps/c_UllridSSR01_slg_cloth1_da_n.png"
+  },
+  "c_ullriddorm_body_da.png": {
+    "normal": "maps/c_ullriddorm_body_da_n.png"
+  },
+  "c_UllridDorm_slg_cloth_d.png": {
+    "normal": "maps/c_UllridDorm_slg_cloth_d_n.png"
+  },
+  "c_Ullrid_hair_d.png": {
+    "normal": "maps/c_Ullrid_hair_d_n.png"
+  },
+  "extra.png": {
+    "normal": "maps/extra_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

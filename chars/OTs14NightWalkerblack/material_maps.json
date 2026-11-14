@@ -1,0 +1,10 @@
+{
+  "defaultPreset": "lobby",
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "丝袜": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

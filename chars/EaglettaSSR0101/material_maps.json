@@ -1,0 +1,52 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "body_zhijia01_da.png": {
+    "normal": "maps/body_zhijia01_da_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth1_da.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth1_da_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth2_da.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth2_da_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth4_d.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth4_d_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth5_da.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth5_da_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth7_da.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth7_da_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth8_d.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth8_d_n.png"
+  },
+  "c_EaglettaSSR01_slg_hair_d.png": {
+    "normal": "maps/c_EaglettaSSR01_slg_hair_d_n.png"
+  },
+  "c_EaglettaSSR0101_slg_weapon_d.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_weapon_d_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth2_dt1_da.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth2_dt1_da_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth3_da.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth3_da_n.png"
+  },
+  "c_EaglettaSSR0101_slg_cloth2_dt-2.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_cloth2_dt-2_n.png"
+  },
+  "c_EaglettaSSR0101_slg_slg_Pearl_da.png": {
+    "normal": "maps/c_EaglettaSSR0101_slg_slg_Pearl_da_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cth1-Top-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

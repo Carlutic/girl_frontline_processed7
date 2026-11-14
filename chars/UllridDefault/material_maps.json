@@ -1,0 +1,19 @@
+{
+  "defaultPreset": "lobby",
+  "c_UllridSSR01_slg_cloth1_da.png": {
+    "normal": "maps/c_UllridSSR01_slg_cloth1_da_n.png"
+  },
+  "c_UllridSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_UllridSSR01_slg_cloth2_da_n.png"
+  },
+  "c_UllridSSR01_slg_cloth2_rmo.png": {
+    "normal": "maps/c_UllridSSR01_slg_cloth2_rmo_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}
