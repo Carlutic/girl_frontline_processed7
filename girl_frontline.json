@@ -135,7 +135,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/OTs14NightWalkerblack",
-  "image": "Covers/OTs14NightWalkerblack.png",
+  "image": "Covers/OTs14NightWalkerwhite.png",
   "pmx": "OTs14 Night Walker-white.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed7/"
  },
@@ -149,7 +149,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Ost14",
-  "image": "Covers/Ost14.png",
+  "image": "Covers/Ost14Second.png",
   "pmx": "【少女前线：火力控制】 Ost14（午后咖啡）无物理.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed7/"
  }
