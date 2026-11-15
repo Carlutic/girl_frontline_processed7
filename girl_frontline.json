@@ -124,5 +124,33 @@
   "image": "Covers/EaglettaSSR0101.png",
   "pmx": "GirlsFrontline EaglettaSSR0101.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed7/"
+ },
+ {
+  "id": 80201,
+  "name": "OTs14NightWalkerwhite",
+  "displayName": "Ost14 暗夜行者（白）",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/OTs14NightWalkerblack",
+  "image": "Covers/OTs14NightWalkerblack.png",
+  "pmx": "OTs14 Night Walker-white.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_processed7/"
+ },
+ {
+  "id": 80202,
+  "name": "Ost14Second",
+  "displayName": "【少女前线：火力控制】 Ost14（午后咖啡）（第二套）",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Ost14",
+  "image": "Covers/Ost14.png",
+  "pmx": "【少女前线：火力控制】 Ost14（午后咖啡）无物理.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_processed7/"
  }
 ]
